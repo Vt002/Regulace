@@ -1,7 +1,7 @@
 [Co dodělat ]: #
 [pojmy ]: #
 <!-- 
-Pojmy:
+Pojmy: 
 
 Řízení, ovládání, regulace
 
@@ -14,6 +14,13 @@ Soustava
 Autoregulace
 
 Spojité regulátory, nespojité, kvazispojitév
+
+
+V tématu regulace zadat, aby do půdorysu přidali vytápění.. 
+
+
+
+
 -->
 
 
